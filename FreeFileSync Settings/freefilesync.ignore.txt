@@ -1,0 +1,10 @@
+\System Volume Information\
+\$Recycle.Bin\
+\RECYCLER\
+\RECYCLED\
+*\desktop.ini
+*\thumbs.db\
+\Installer\
+\Hyper-v\
+\$MfeDeepRem\
+*\.svn\
