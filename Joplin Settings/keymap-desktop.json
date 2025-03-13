@@ -1,0 +1,10 @@
+[
+  {
+    "command": "editor.deleteLine",
+    "accelerator": "Ctrl+Shift+D"
+  },
+  {
+    "command": "editor.duplicateLine",
+    "accelerator": "Ctrl+D"
+  }
+]

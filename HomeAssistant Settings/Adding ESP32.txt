@@ -1,0 +1,5 @@
+Settings > Addons > Add-on Store
+ESPHome Device Builder
+Enable all 
+
+Start the Service
